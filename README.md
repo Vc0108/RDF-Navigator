@@ -1,3 +1,4 @@
+# STREAMLIT LINK: https://rdf-navigator-atgyrgyiifxrfyedxxnvkc.streamlit.app/ #
 # 🕸️ Unified RDF Navigator: AI-Driven Knowledge Graph Explorer
 
 An advanced Semantic Web application designed to transform heterogeneous tabular data into a structured **Knowledge Graph (RDF)** and enable natural language exploration via **Generative AI**.
