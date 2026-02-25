@@ -1,0 +1,18 @@
+[theme]
+  primaryColor = "#1565C0"
+  backgroundColor = "#FFFFFF"
+  secondaryBackgroundColor = "#E3F2FD"
+  textColor = "#0D47A1"
+  font = "sans serif"
+
+  [server]
+  maxUploadSize = 50
+  enableXsrfProtection = true
+
+  [browser]
+  gatherUsageStats = false
+
+├── .env.example
+├── README.md
+└── .streamlit/
+    └── config.toml
